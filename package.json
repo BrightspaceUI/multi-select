@@ -41,7 +41,7 @@
     "wct-browser-legacy": "^1"
   },
   "dependencies": {
-    "@brightspace-ui/core": "^1",
+    "@brightspace-ui/core": "^1.31.0",
     "@polymer/polymer": "^3",
     "d2l-localize-behavior": "BrightspaceUI/localize-behavior#semver:^2",
     "d2l-polymer-behaviors": "Brightspace/d2l-polymer-behaviors-ui#semver:^2",
